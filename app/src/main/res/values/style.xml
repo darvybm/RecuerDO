@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CheckBoxWhiteText" parent="Widget.AppCompat.CompoundButton.CheckBox">
+        <item name="android:textColor">@android:color/white</item> <!-- Cambia el color del texto a blanco -->
+        <item name="colorAccent">@android:color/white</item> <!-- Cambia el color del borde a blanco -->
+    </style>
+</resources>
